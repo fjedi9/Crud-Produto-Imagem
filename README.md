@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/GuilhermeFGL/Crud-Produto-Imagem.svg?branch=master)](https://travis-ci.org/GuilhermeFGL/Crud-Produto-Imagem)
+[![Build Status]
 
 # Crud Produto Imagem
 
@@ -133,4 +133,4 @@ Projeto desenvolvido, executado e testado na IDE Spring Tool Suit, no Linux e Wi
 ```
 
 
-Autoria :neckbeard: [GuilhermeFGL](https://www.linkedin.com/in/guilherme-faria-da-gama-lima-37baa647/)
+Autoria :neckbeard: [FJedi](https://www.linkedin.com/in/felipevmleitao/)
